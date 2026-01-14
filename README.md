@@ -1,3 +1,4 @@
 # Deskripsi Aplikasi
 
-Aplikasi ini dirancang untuk membantu pengguna dalam mengelola proyek Git secara kolaboratif dengan mudah dan efisien...
+Aplikasi ini dirancang untuk membantu pengguna dalam mengelola proyek Git secara kolaboratif dengan mudah dan efisien.
+(lupa ss jadi mau di merge ulang)
